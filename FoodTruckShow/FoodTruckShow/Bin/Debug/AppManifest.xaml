@@ -1,0 +1,8 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="FoodTruckShow" EntryPointType="FoodTruckShow.App" RuntimeVersion="6.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="FoodTruckShow" Source="FoodTruckShow.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Parse" Source="Parse.dll" />
+    <AssemblyPart x:Name="Parse.Phone" Source="Parse.Phone.dll" />
+  </Deployment.Parts>
+</Deployment>

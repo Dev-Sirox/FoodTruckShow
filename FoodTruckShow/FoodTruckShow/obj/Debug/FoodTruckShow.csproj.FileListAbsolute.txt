@@ -1,0 +1,189 @@
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\FoodTruckShow.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\FoodTruckShow.pdb
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\resources.pri
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\AppxManifest.xml
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\FoodTruckShow.build.appxrecipe
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Parse.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Parse.Phone.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Parse.xml
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Parse.Phone.xml
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\App.g.cs
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\Cadastro.g.cs
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\MainPage.g.cs
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.g.resources
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.Resources.AppResources.resources
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.csproj.GenerateResource.Cache
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.pdb
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\priconfig.xml
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\priconfig.xml.intermediate
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\layout.resfiles
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\layout.resfiles.intermediate
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\resources.resfiles
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\resources.resfiles.intermediate
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\pri.resfiles
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\pri.resfiles.intermediate
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\qualifiers.txt
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\ProjectArchitectures.txt
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\AppManifest.xaml
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\FoodTruckShow_Debug_AnyCPU.xap
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\MDILProjectFiles.xml
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\XapCacheFile.xml
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.csprojResolveAssemblyReference.cache
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\SouCliente.g.cs
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\SouFoodTruck.g.cs
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Fiap\Desktop\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\CadastroFoodTruck.g.cs
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\FoodTruckShow.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\FoodTruckShow.pdb
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\resources.pri
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\AppxManifest.xml
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\FoodTruckShow.build.appxrecipe
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\AppManifest.xaml
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\FoodTruckShow_Debug_AnyCPU.xap
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Parse.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Parse.Phone.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Parse.xml
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\Parse.Phone.xml
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.csprojResolveAssemblyReference.cache
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\App.g.cs
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\Cadastro.g.cs
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\CadastroFoodTruck.g.cs
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\MainPage.g.cs
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\SouCliente.g.cs
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\SouFoodTruck.g.cs
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.g.resources
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.Resources.AppResources.resources
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.csproj.GenerateResource.Cache
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.dll
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\FoodTruckShow.pdb
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\priconfig.xml
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\priconfig.xml.intermediate
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\layout.resfiles
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\layout.resfiles.intermediate
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\resources.resfiles
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\resources.resfiles.intermediate
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\pri.resfiles
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\pri.resfiles.intermediate
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\qualifiers.txt
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\qualifiers.txt.intermediate
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\ProjectArchitectures.txt
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\MDILProjectFiles.xml
+C:\Users\sirox\Documents\Visual Studio 2015\Projects\FoodTruckShow\FoodTruckShow\FoodTruckShow\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,122 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="FoodTruckShow.CadastroFoodTruck"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="FOODTRUCKSHOW" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="cadastrar FoodTruck" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="50.667"/>
+        </StackPanel>
+        
+        <ScrollViewer VerticalScrollBarVisibility="Visible" x:Name="ContentPanel" Margin="20,151,20,0" Grid.RowSpan="2">
+            <Grid Height="716" >
+                <TextBlock HorizontalAlignment="Left"
+        			TextWrapping="Wrap"
+        			Text="Nome do seu FoodTruck:" 
+        			VerticalAlignment="Top"
+        			Margin="10,5,0,0"/>
+                <TextBox x:Name="txt_foodtruck_nome"
+        			HorizontalAlignment="Left"
+        			Height="72" 
+                    Margin="0,27,12,0"
+        			TextWrapping="Wrap"
+        			VerticalAlignment="Top" 
+        			Width="456"/>
+                <TextBlock HorizontalAlignment="Left"
+        			TextWrapping="Wrap" 
+        			Text="Segmento:" 
+        			VerticalAlignment="Top"
+        			Margin="10,104,0,0"/>
+                <TextBlock HorizontalAlignment="Left"
+        			Margin="10,195,0,0"
+        			TextWrapping="Wrap" 
+        			Text="Horario de abertura:"
+        			VerticalAlignment="Top"/>
+                <toolkit:TimePicker x:Name="time_abre"
+                                Margin="0,213,0,266" Value="08:00"/>
+                <TextBlock HorizontalAlignment="Left"
+        			Margin="10,282,0,0"
+        			TextWrapping="Wrap"
+        			Text="Horario de enceramento"
+        			VerticalAlignment="Top"/>
+                <toolkit:TimePicker x:Name="time_fecha"
+                                Margin="0,300,0,179" Value="20:00"/>
+                <TextBlock HorizontalAlignment="Left"
+        			Margin="10,368,0,0"
+        			TextWrapping="Wrap"
+        			Text="Faixa de preco:" 
+        			VerticalAlignment="Top"/>
+                <TextBox x:Name="txt_preco"
+        			HorizontalAlignment="Left" 
+        			Height="72"
+                    Margin="0,385,12,0" 
+        			TextWrapping="Wrap"
+        			VerticalAlignment="Top"
+        			Width="456"/>
+                <TextBlock HorizontalAlignment="Left"
+        			Margin="10,457,0,0" 
+        			TextWrapping="Wrap" 
+        			Text="Telefone:"
+        			VerticalAlignment="Top"/>
+                <TextBox x:Name="txt_telefone" 
+        			HorizontalAlignment="Left"
+        			Height="72"
+        			TextWrapping="Wrap" 
+        			VerticalAlignment="Top" 
+        			Width="456" 
+                    Margin="0,473,12,0"/>
+                <TextBlock x:Name="textBlock"
+                    Text="Local: "
+                    HorizontalAlignment="Left"
+                    Margin="10,550,0,0" 
+                    TextWrapping="Wrap"
+                    VerticalAlignment="Top"/>
+                <TextBox x:Name="txt_local"
+                    HorizontalAlignment="Left"
+                    TextWrapping="Wrap"
+                    VerticalAlignment="Top"
+                    Height="72"
+                    Width="446"
+                    Margin="0,567,12,-41"/>               
+                
+                <toolkit:ListPicker x:Name="lst_segmento" Margin="10,127,14,-95">
+                    <toolkit:ListPickerItem Content="Hamburguer"/>
+                    <toolkit:ListPickerItem Content="Cachorro Quente"/>
+                    <toolkit:ListPickerItem Content="Pipoca"/>
+                    <toolkit:ListPickerItem Content="Espetinho"/>
+                    <toolkit:ListPickerItem Content="Outro Segmento"/>
+                </toolkit:ListPicker>
+            </Grid>
+        </ScrollViewer>
+
+        <!--ContentPanel - place additional content here-->
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="Assets/Image/check.png"
+                                            Text="Cadastrar" x:Name="btnCadastrar"
+                                            Click="btncadastrar_Click" />
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>
